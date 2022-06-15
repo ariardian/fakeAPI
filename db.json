@@ -1,0 +1,11 @@
+{
+  "getUserById": {
+    "data": {
+      "id": "123456789",
+      "email": "jhonsnow@gmail.com",
+      "firstName": "Jhon",
+      "lastName": "Snow",
+      "contactNumber": ""
+    }
+  }
+}
