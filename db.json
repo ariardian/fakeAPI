@@ -1,11 +1,18 @@
 {
-  "getUserById": {
-    "data": {
+  "getUserById": [
+    {
       "id": "123456789",
       "email": "jhonsnow@gmail.com",
       "firstName": "Jhon",
       "lastName": "Snow",
       "contactNumber": ""
+    },
+    {
+      "id": "987654321",
+      "email": "aegontargaryen@gmail.com",
+      "firstName": "Aegon",
+      "lastName": "Targaryen",
+      "contactNumber": ""
     }
-  }
+  ]
 }
