@@ -22,11 +22,11 @@
       "firstName": "Jhon",
       "lastName": "Snow",
       "contactNumber": "",
-      "claims": '',
-      "costCentre": '',
-      "shop": '',
-      "vendor": '',
-      "userType": ''
+      "claims": "",
+      "costCentre": "",
+      "shop": "",
+      "vendor": "",
+      "userType": ""
     },
     {
       "id": "987654321",
@@ -34,11 +34,11 @@
       "firstName": "Aegon",
       "lastName": "Targaryen",
       "contactNumber": "",
-      "claims": '',
-      "costCentre": '',
-      "shop": '',
-      "vendor": '',
-      "userType": ''
+      "claims": "",
+      "costCentre": "",
+      "shop": "",
+      "vendor": "",
+      "userType": ""
     }
   ]
 }
