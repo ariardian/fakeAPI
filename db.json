@@ -14,5 +14,31 @@
       "lastName": "Targaryen",
       "contactNumber": ""
     }
+  ],
+  "portalUsers": [
+    {
+      "id": "123456789",
+      "email": "jhonsnow@gmail.com",
+      "firstName": "Jhon",
+      "lastName": "Snow",
+      "contactNumber": "",
+      "claims": '',
+      "costCentre": '',
+      "shop": '',
+      "vendor": '',
+      "userType": ''
+    },
+    {
+      "id": "987654321",
+      "email": "aegontargaryen@gmail.com",
+      "firstName": "Aegon",
+      "lastName": "Targaryen",
+      "contactNumber": "",
+      "claims": '',
+      "costCentre": '',
+      "shop": '',
+      "vendor": '',
+      "userType": ''
+    }
   ]
 }
